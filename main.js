@@ -7,7 +7,7 @@ let x = a + b;
 console.log(x);
 
 let ism = prompt("ism");
-let yosh =prompt("");
+let yosh =prompt("yosh");
 let c = ism + yosh;
 console.log(c);
 
