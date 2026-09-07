@@ -6,4 +6,4 @@ let b = 20;
 let x = a + b;
 console.log(x);
 
-alert()
+alert("juft son")
