@@ -9,5 +9,5 @@ console.log(x);
 let ism = prompt("ism");
 let yosh =prompt("yosh");
 let c = ism + yosh;
-console.log(c );
+console.log(c (`$ yosh`));
 
