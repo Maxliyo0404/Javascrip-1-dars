@@ -9,5 +9,5 @@ console.log(x);
 let ism = prompt("Maxliyo");
 let yosh =prompt("34");
 let c = ism + yosh;
-console.log(a);
+console.log(c);
 
