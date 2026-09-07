@@ -8,4 +8,4 @@ console.log(x);
 
 let ism = prompt("Maxliyo");
 let yosh =prompt("34");
-let a = ism, yosh
+let a = ism + yosh;
