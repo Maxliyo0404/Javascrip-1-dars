@@ -55,4 +55,4 @@
 // console.log(mevalar);
 
 
-function
+function salomBer(ism)
