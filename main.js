@@ -36,4 +36,4 @@
 // console.log(x);
 
 
- // Null
+ // Null;  Bo'sh 
