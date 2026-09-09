@@ -60,3 +60,5 @@
 // }
 
 // console.log(salomBer("Maxliyo"));
+
+// Object
