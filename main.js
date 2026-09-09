@@ -19,6 +19,6 @@
 
 // String:
   
-const
+const ism = "Nargiza";
 
  
