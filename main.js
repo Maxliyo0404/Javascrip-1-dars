@@ -58,3 +58,4 @@
 function salomBer(ism){
   return "Salom, " + ism + "!";
 }
+salomBer
