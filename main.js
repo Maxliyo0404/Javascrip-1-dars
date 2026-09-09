@@ -43,3 +43,5 @@
 //  BigInt: Juda katta butun sonlar uchun ;
 // const kattaSon = 2345623456789098765432323456789009876543222345n;
 // console.log(kattaSon);
+
+// Symbol
