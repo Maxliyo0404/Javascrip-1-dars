@@ -19,8 +19,8 @@
 
 // String:
   
-const ism = "Nargiza";
-console.log(ism);
+// const ism = "Nargiza";
+// console.log(ism);
 
 
  
