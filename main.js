@@ -37,6 +37,6 @@
 
 
  // Null;  Bo'sh ;
- const bosh = null;
- console.log(bosh);
+//  const bosh = null;
+//  console.log(bosh);
  
