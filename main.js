@@ -46,3 +46,4 @@
 
 // Symbol; Noyob va o'zgarmas idinfikator yaratish uchun;
 const id = Symbol("id");
+console.log(id);
