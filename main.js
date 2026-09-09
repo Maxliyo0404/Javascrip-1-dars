@@ -58,5 +58,5 @@
 function salomBer(ism){
   return "Salom, " + ism + "!";
 }
-salomBer(Maxliyo);
+salomBer("Maxliyo");
 console.log();
