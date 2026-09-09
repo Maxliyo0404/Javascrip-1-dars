@@ -25,3 +25,5 @@
 
  // Boolean;
  const isTrue = true;
+ console.log();
+ 
