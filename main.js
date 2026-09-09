@@ -12,7 +12,7 @@
 //   console.log(yil);
 
 
-//Number
-const PI = 3.14;
-console.log(PI);
+// Number
+// const PI = 3.14;
+// console.log(PI);
  
