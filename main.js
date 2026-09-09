@@ -42,3 +42,4 @@
  
 //  BigInt: Juda katta butun sonlar uchun ;
 const kattaSon = 23456234567890987654323n;
+console.log(kattaSon);
