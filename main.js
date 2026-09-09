@@ -24,8 +24,7 @@
 
 
  // Boolean;
- const isTrue = true;
- console.log(isTrue);
+ const yosh = 15;
  if (yosh > 14)
   alert("true")
  else{
