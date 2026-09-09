@@ -28,4 +28,6 @@
  console.log(isTrue);
  if (yosh > 14)
   alert("true")
- else
+ else{
+  alert
+ }
