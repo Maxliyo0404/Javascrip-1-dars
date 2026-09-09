@@ -41,3 +41,4 @@
 //  console.log(bosh);
  
 //  BigInt: Juda katta butun sonlar uchun ;
+const kattaSon = 
