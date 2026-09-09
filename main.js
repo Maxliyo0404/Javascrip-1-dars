@@ -49,7 +49,7 @@
   let j = 24;
   let k = 2;
   let l = j/k;
-  console.log(l)
+  console.log(l);
 
   let ism = "Malika";
 
