@@ -55,8 +55,8 @@
 // console.log(mevalar);
 
 // Function;
-function salomBer(ism){
-  return "Salom, " + ism + "!";
-}
+// function salomBer(ism){
+//   return "Salom, " + ism + "!";
+// }
 
-console.log(salomBer("Maxliyo"));
+// console.log(salomBer("Maxliyo"));
