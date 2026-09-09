@@ -45,4 +45,4 @@
 // console.log(kattaSon);
 
 // Symbol; Noyob va o'zgarmas idinfikator yaratish uchun;
-const id = Symbol
+const id = Symbol("id");
