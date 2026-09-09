@@ -23,10 +23,10 @@
 // console.log(ism);
 
 
- // Boolean;
- const yosh = 15;
- if (yosh < 14)
-  alert("true")
- else{
-  alert("false")
- }
+//  Boolean;
+//  const yosh = 15;
+//  if (yosh < 14)
+//   alert("true")
+//  else{
+//   alert("false")
+//  }
