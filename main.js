@@ -37,4 +37,4 @@
 
 
  // Null;  Bo'sh ;
- const bosh
+ const bosh = null
