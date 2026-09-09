@@ -20,5 +20,7 @@
 // String:
   
 const ism = "Nargiza";
+console.log(ism);
+
 
  
