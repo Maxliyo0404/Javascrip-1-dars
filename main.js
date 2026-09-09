@@ -50,4 +50,5 @@
 
 
 // Noprimitive:
-let mevalar = ["banana", "apple", "oringe"]
+let mevalar = ["banana", "apple", "oringe"];
+console.log(mevalar);
