@@ -44,4 +44,4 @@
 // const kattaSon = 2345623456789098765432323456789009876543222345n;
 // console.log(kattaSon);
 
-// Symbol; Noyob va o'zgarmas idinfikator
+// Symbol; Noyob va o'zgarmas idinfikator yaratish uchun;
