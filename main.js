@@ -32,5 +32,5 @@
 //  }
 
 // Undefined; Qiymat berilmagan:
-let x ;
-console.log(x);
+// let x ;
+// console.log(x);
