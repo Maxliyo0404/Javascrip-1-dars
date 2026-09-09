@@ -59,4 +59,4 @@ function salomBer(ism){
   return "Salom, " + ism + "!";
 }
 
-console.log(salomBer("Maxliyo"))
+console.log(salomBer("Maxliyo"));
