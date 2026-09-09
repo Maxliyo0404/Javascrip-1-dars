@@ -37,4 +37,6 @@
 
 
  // Null;  Bo'sh ;
- const bosh = null
+ const bosh = null;
+ console.log(bosh);
+ 
