@@ -54,7 +54,7 @@
 // let mevalar = ["banana", "apple", "oringe"];
 // console.log(mevalar);
 
-
+// Function;
 function salomBer(ism){
   return "Salom, " + ism + "!";
 }
