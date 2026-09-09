@@ -29,5 +29,5 @@
  if (yosh > 14)
   alert("true")
  else{
-  alert
+  alert("")
  }
