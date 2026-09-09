@@ -68,3 +68,4 @@ const user = {
   name: "Ali",
   hobby:"sleep"
 }
+console.log(user);
