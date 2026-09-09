@@ -34,3 +34,6 @@
 // Undefined; Qiymat berilmagan:
 // let x ;
 // console.log(x);
+
+
+ // Null
