@@ -12,3 +12,4 @@
 //   console.log(yil);
 
 
+//Number
