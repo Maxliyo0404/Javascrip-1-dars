@@ -50,5 +50,6 @@
 
 
 // Noprimitive:
+// Array
 // let mevalar = ["banana", "apple", "oringe"];
 // console.log(mevalar);
