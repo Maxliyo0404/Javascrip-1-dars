@@ -25,7 +25,7 @@
 
  // Boolean;
  const yosh = 15;
- if (yosh > 14)
+ if (yosh < 14)
   alert("true")
  else{
   alert("false")
