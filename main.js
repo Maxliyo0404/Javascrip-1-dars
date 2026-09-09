@@ -50,4 +50,4 @@
 
 
 // Noprimitive:
-let mevalar = ["banana", ]
+let mevalar = ["banana", "apple"]
