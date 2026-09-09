@@ -26,4 +26,5 @@
  // Boolean;
  const isTrue = true;
  console.log(isTrue);
+ if (yosh > 14)
  
