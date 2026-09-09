@@ -62,3 +62,7 @@
 // console.log(salomBer("Maxliyo"));
 
 // Object
+
+const user = {
+  
+}
