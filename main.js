@@ -56,5 +56,5 @@
 
 
 function salomBer(ism){
-  return "Salom, " +
+  return "Salom, " + ism 
 }
