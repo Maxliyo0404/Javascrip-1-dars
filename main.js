@@ -36,4 +36,5 @@
 // console.log(x);
 
 
- // Null;  Bo'sh 
+ // Null;  Bo'sh ;
+ const bosh
