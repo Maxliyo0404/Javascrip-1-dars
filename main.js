@@ -40,4 +40,4 @@
 //  const bosh = null;
 //  console.log(bosh);
  
-//  BigInt
+//  BigInt: Juda katta butun sonlar uchun ;
