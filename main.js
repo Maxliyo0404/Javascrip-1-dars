@@ -197,6 +197,6 @@
 
 //2.function;
 function seyHello(){
-    return a *
+    return a * b
 }
   
