@@ -191,7 +191,7 @@ const user = {
     fullName:"Malika",
     phone:979609291,
     email:"@miss0504gmail.com",
-    isStudent:
+    isStudent: true
 
 
 }
