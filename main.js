@@ -194,4 +194,4 @@ const user = {
     isStudent: true
 
 
-}
+};
