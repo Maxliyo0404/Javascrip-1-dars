@@ -194,4 +194,5 @@
 //     isStudent: true
 // };
 // console.log(user["email"]);
-//2.function
+
+//2.function;
