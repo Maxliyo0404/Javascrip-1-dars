@@ -198,5 +198,6 @@
 //2.function;
 function seyHello(a, b){
     return a * b;
-}
+};
+console.log();
   
