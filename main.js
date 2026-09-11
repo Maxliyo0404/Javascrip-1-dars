@@ -196,8 +196,8 @@
 // console.log(user["email"]);
 
 //2.function;
-function seyHello(a, b){
-    return a * b;
-};
-console.log(seyHello(20, 80));
+// function seyHello(a, b){
+//     return a * b;
+// };
+// console.log(seyHello(20, 80));
   
