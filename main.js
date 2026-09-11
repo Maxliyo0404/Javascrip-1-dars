@@ -186,4 +186,6 @@
 
 // 1. Object
 
-const user
+const user = {
+    
+}
