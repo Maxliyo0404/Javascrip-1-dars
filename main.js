@@ -199,5 +199,5 @@
 function seyHello(a, b){
     return a * b;
 };
-console.log();
+console.log(seyHello());
   
