@@ -190,6 +190,7 @@ const user = {
     id: 1,
     fullName:"Malika",
     phone:979609291,
+    email:
 
 
 }
