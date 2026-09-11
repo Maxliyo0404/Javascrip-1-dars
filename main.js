@@ -181,4 +181,4 @@
 // console.log(pasport);
 
 
-1.
+// 1. NoPrimitive
