@@ -203,6 +203,6 @@
   
 
 function greeting(fristName){
- console.log("");
+ console.log("Hello my name is");
  
 }
