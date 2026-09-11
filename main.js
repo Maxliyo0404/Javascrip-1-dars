@@ -192,7 +192,5 @@ const user = {
     phone:979609291,
     email:"@miss0504gmail.com",
     isStudent: true
-
-
 };
 console.log(user[email]);
