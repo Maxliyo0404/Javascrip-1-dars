@@ -193,4 +193,4 @@ const user = {
     email:"@miss0504gmail.com",
     isStudent: true
 };
-console.log(user[email]);
+console.log(user["email"]);
