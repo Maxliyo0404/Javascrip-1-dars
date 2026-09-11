@@ -188,5 +188,6 @@
 
 const user = {
     id: 1,
-    fullName:
+    fullName:"Malika",
+    
 }
