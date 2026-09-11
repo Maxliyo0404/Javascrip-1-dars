@@ -196,5 +196,7 @@
 // console.log(user["email"]);
 
 //2.function;
-function
+function seyHello(){
+    
+}
   
