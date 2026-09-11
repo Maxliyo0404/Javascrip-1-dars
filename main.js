@@ -189,6 +189,6 @@
 const user = {
     id: 1,
     fullName:"Malika",
-    phone:
+    phone:979609291;
 
 }
