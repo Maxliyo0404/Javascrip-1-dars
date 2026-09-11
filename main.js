@@ -195,4 +195,4 @@ const user = {
 
 
 };
-console.log();
+console.log(user);
