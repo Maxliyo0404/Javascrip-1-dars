@@ -187,5 +187,5 @@
 // 1. Object
 
 const user = {
-    
+    id: 1
 }
