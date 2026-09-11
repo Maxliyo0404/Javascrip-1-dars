@@ -202,6 +202,6 @@
 // console.log(seyHello(20, 80));
   
 
-function greeting(){
-    
+function greeting(fristName){
+
 }
