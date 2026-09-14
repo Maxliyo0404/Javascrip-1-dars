@@ -128,13 +128,42 @@
 
 //5 Boolean;
 
-// let  yosh = 14;
+
+// 1.object
+// const user = {
+//     id: 2,
+//     name: "Sultonali",
+//     phone: 998945678,
+//     email: "@miss0504gmail.com",
+//     isStudent: true
+
+// } ;
+// console.log(user["phone"]);// 
  
-// if (yosh >= 18) {
-//     alert("true");
-// }
-// else{
-//     alert("false");
+// 2. Arrow;
+//   let products = ["apple", "banana", "mealon", "peach","oringe"];
+//   console.log(products[1]);
+
+//   3. Function
+
+// function seyHello(ism){
+//      console.log("Mening ismim" + " " + ism);
+      
+// };
+// seyHello("ALI");
+  
+// function newSon(a, b){
+//   return a * b;
+// };
+// console.log(newSon(20, 4));
+
+
+//  if (yosh >= 18) {
+//      alert("true");
+//  }
+//  else{
+//      alert("false");
+//  }
 
 // 6. BigInt;
 // let son = 112345678909876543212345678909876543n;
@@ -145,7 +174,7 @@
 
 // //1.number
 
-// let w = 34
+//  let w = 34;
 // console.log(w);
 
 // //2.string
@@ -193,16 +222,102 @@
 //     email:"@miss0504gmail.com",
 //     isStudent: true
 // };
-// console.log(user["email"]);
+// console.log(user["isStudent"]);
 
 //2.function;
-// function seyHello(a, b){
-//     return a * b;
-// };
-// console.log(seyHello(20, 80));
+function seyHello(a, b){
+    return a * b;
+};
+console.log(seyHello(20, 80));
   
 
-function greeting(fristName){
- console.log("Hello my name is" + fristName);
+// function greeting(fristName){
+//  console.log("Hello my name is" + " " + fristName);
  
-}
+// }
+// greeting("Ali")
+
+
+//                          14-sentyaber Mavzu : Operatorlar
+//√-ildiz belgisi
+// ^ adraja belgisi
+
+// Operatorlar 2 turga bo'linadfi 
+//1. Arithmetic operators : + qo'shish, - ayirish, * ko'paytirish, bo'lish /, daraja **,  qoldiqli bo'lish %
+ 
+// let a = 100;
+// let b = 3;
+// console.log(a + b);
+// console.log(a - b);
+// console.log(a * b); 
+// console.log(a / b);
+// console.log(a ** b);
+// console.log(a % b);
+
+
+
+// 2. Assignment operators = qiymat berish operatori;
+  // let ism = "Shamshod";
+  // console.log(ism);
+  
+// Math Object
+// let value;
+1.// pow => Daraja;
+ // 100 ^ = 100 * 100 * 100;
+// let value;
+//  value = Math.pow(a, b);
+
+2. // sqrt => ildiz;
+  // √16 = 4;
+  // √64 = 8;
+
+// value = Math.sqrt(25);
+// value = Math.sqrt(81);
+
+3.// PI => 3.14;
+//  value = Math.PI;
+
+4. // abs => modul;
+// value = Math.abs(-10);
+//  console.log(value);
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
