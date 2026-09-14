@@ -261,7 +261,7 @@
 
 
 
-// 2 Assignment operators = qiymat berish operatori;
+// 2. Assignment operators = qiymat berish operatori;
   // let ism = "Shamshod";
   // console.log(ism);
   
