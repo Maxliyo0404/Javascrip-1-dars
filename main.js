@@ -227,8 +227,8 @@
 //2.function;
 function seyHello(a, b){
     return a * b;
-};
-console.log(seyHello(20, 80));
+// };
+// console.log(seyHello(20, 80));
   
 
 // function greeting(fristName){
