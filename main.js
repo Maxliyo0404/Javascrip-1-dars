@@ -264,7 +264,7 @@
 // 2. Assignment operators = qiymat berish operatori;
   // let ism = "Shamshod";
   // console.log(ism);
-   >=
+  
   
 // Math Object
 // let value;
