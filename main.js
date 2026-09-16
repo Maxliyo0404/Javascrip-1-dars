@@ -314,6 +314,10 @@ let b = 3;
 // 1. Solishtirish operatorlari: =>     >, <, >=,  <=, ==, !=, ===, !==
 
 
+console.log();
+
+
+
 
 
 
