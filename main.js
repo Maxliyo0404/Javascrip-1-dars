@@ -314,8 +314,11 @@ let b = 3;
 // 1. Solishtirish operatorlari: =>     >, <, >=,  <=, ==, !=, ===, !==  ________________ Boolean qiymat ega ya'ni true va false bo'ladi
 
 
-console.log(10 > 5);
-console.log(10 < 5);
+// console.log(10 > 5);
+// console.log(10 < 5);
+
+console.log();
+
 
 
 
