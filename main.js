@@ -325,7 +325,7 @@ console.log(15 == 15);
 console.log(15 == 14);
 console.log("14" == 14);
 console.log("14" == 14);
-console.log(14 == 14);
+console.log(14 === 14);
 
 
 
