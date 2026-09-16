@@ -311,7 +311,7 @@ let b = 3;
                                                      // 16-sentyabr 
 
 
-// 1. Solishtirish operatorlari: =>     >, <, >=,  <=, ==, !=, 
+// 1. Solishtirish operatorlari: =>     >, <, >=,  <=, ==, !=, ===, 
 
 
 
