@@ -332,7 +332,7 @@ let b = 3;
 
 
 // logical operatorlar  (Mantiqiy operatorlar)
-  // && and  va 
+  // && and  va ikkala tarafi 
 //  || or  yoki
 // ! not emas
 
