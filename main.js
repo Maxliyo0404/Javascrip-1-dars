@@ -331,7 +331,7 @@ let b = 3;
 
 
 
-logical operatorlar
+logical operatorlar  ()
 
 
 
