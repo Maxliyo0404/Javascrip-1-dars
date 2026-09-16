@@ -314,7 +314,7 @@ let b = 3;
 // 1. Solishtirish operatorlari: =>     >, <, >=,  <=, ==, !=, ===, !==
 
 
-console.log();
+console.log(10 > 5);
 
 
 
