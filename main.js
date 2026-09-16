@@ -315,6 +315,7 @@ let b = 3;
 
 
 console.log(10 > 5);
+console.log(10 < 5);
 
 
 
