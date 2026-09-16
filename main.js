@@ -326,7 +326,7 @@ console.log(14 == 14);
 console.log("14" == 14);
 console.log("14" === 14);
 console.log(14 === 14);
-console.log();
+console.log(10 !);
 
 
 
