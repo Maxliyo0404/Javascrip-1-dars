@@ -216,6 +216,21 @@
 
 // 1. NoPrimitive
   
+//3. Array
+  
+
+// let mevalar = ["banan", "olma", "anor", "gilos"];
+// console.log(mevalar[0]);
+
+
+
+
+
+
+
+
+
+
 
 // 1. Object
 
@@ -249,15 +264,15 @@
 // Operatorlar 2 turga bo'linadfi 
 //1. Arithmetic operators : + qo'shish, - ayirish, * ko'paytirish, bo'lish /, daraja **,  qoldiqli bo'lish %
  
-// let a = 100;
-// let b = 3;
+let a = 100;
+let b = 3;
 // console.log(a + b);
 // console.log(a - b);
 // console.log(a * b); 
 // console.log(a / b);
 // console.log(a ** b);
 // console.log(a % b);
-// console.log(a * b);
+
 
 
 
@@ -266,16 +281,20 @@
   // console.log(ism);
   
   
+
+
+
+
 // Math Object
 // let value;
-1.// pow => Daraja;
- // 100 ^ = 100 * 100 * 100;
+// 1. pow => Daraja;
+//   100 ^ = 100 * 100 * 100;
 // let value;
 //  value = Math.pow(a, b);
 
 2. // sqrt => ildiz;
-  // √16 = 4;
-  // √64 = 8;
+  //  √16 = 4;
+  //  √64 = 8;
 
 // value = Math.sqrt(25);
 // value = Math.sqrt(81);
@@ -288,6 +307,8 @@
 //  console.log(value);
  
 
+
+16-sentyabr 
 
 
 
