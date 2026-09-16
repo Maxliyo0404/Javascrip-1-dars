@@ -319,9 +319,10 @@ let b = 3;
 
 console.log(20 > 20);
 console.log(20 >= 20);
-console.log(15 <= 15);
+console.log(15 < 15);
 console.log(15 <= 15);
 console.log(15 == 15);
+console.log(15 == 1);
 
 
 
