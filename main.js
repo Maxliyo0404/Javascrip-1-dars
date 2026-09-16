@@ -308,7 +308,7 @@ let b = 3;
  
 
 
-                                                     // 16-sentyabr 
+                                                        // 16-sentyabr 
 
 
 // 1. Solishtirish operatorlari: =>     >, <, >=,  <=, ==, !=, ===, !==  ________________ Boolean qiymat ega ya'ni true va false bo'ladi
