@@ -333,8 +333,8 @@ let b = 3;
 
 // logical operatorlar  (Mantiqiy operatorlar)
   // && and  va ikkala tarafi  true bo'lsagina ishlaydi
-//  || or  yoki bitta
-// ! not emas
+//  || or  yoki bitta tarafi tue bo'lsa ham ishlaydi
+// ! not emas  trueni teskari yani 
 
 
 
