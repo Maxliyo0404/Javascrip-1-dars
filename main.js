@@ -322,7 +322,7 @@ console.log(20 >= 20);
 console.log(15 < 15);
 console.log(15 <= 15);
 console.log(15 == 15);
-console.log(15 == 14);
+console.log(1== 14);
 console.log("14" == 14);
 console.log("14" === 14);
 console.log(14 === 14);
