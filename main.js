@@ -360,7 +360,7 @@ console.log( false || true);
             //  qizim    o'g'lim
 console.log( false || false);
             //  qizim    o'g'lim
-console.log( true || true);
+// console.log( true || true);
 
 
 // ! not emas
