@@ -370,6 +370,8 @@ console.log(30 <= 30 );
  
 
 // uniary operators: 1 ta qiymat saqlaydi
+console.log(! true);
+
 // binary operators:
 
 
