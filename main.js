@@ -343,7 +343,7 @@ console.log(30 <= 30 );
 // &&- and - va
 
 
-Chetelga borish uchun: 1 Passport va  2. Viza 
+// Chetelga borish uchun: 1 Passport va  2. Viza 
    
 //  || -or - yoki
 
