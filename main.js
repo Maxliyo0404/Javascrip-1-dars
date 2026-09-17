@@ -356,7 +356,7 @@ console.log(30 <= 30 );
             //  qizim    o'g'lim
 console.log( true || false);
             //  qizim    o'g'lim
-console.log( false || false);
+console.log( false || true);
 
 
 // ! not emas
