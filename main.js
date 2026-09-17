@@ -352,6 +352,10 @@ console.log(30 <= 30 );
    
 //  || -or - yoki
 
+
+console.log();
+
+
 // ! not emas
 // a > b , c < d
 
