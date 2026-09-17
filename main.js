@@ -347,6 +347,7 @@ console.log(30 <= 30 );
 // console.log(true &&  true);
 // console.log(true &&  false);
 // console.log(false &&  false);
+// console.log(false &&  false);
 
    
 //  || -or - yoki
