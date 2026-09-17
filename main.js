@@ -311,6 +311,47 @@ let b = 3;
                                                         // 16-sentyabr Mavzu operatorlar:
 
 
+
+
+
+
+
+// > , <,  >=, <=, ==, !=, ===, !==
+
+// console.log(10 > 9);
+// console.log(10 < 9);
+
+console.log( 20 > 20);
+console.log( 20 >= 20);
+console.log( 20 <= 20);
+
+console.log(14 == 14);
+console.log("14" == 14);
+console.log("14" === 14);
+console.log(10 !== 1);
+
+
+
+console.log(30 > 30);
+console.log(30 <= 30 );
+console.log(30 <= 30 );
+
+
+// logical operatorlar  (Mantiqiy operatorlar)
+
+
+// &&- and - va
+
+
+
+   
+//  || -or - yoki
+
+// ! not emas
+// a > b , c < d
+
+
+
 // 1. Solishtirish operatorlari: =>     >, <, >=,  <=, ==, !=, ===, !==  ________________ Boolean qiymat ega ya'ni true va false bo'ladi
 
 
