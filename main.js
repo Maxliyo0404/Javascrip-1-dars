@@ -352,7 +352,7 @@ console.log(30 <= 30 );
    
 //  || -or - yoki
 
-Uyni eshigini ochish kerak
+Uyni eshigini ochish kerak:  Kalit : qizim va o'limda bor
 
 console.log();
 
