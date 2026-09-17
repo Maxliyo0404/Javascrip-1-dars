@@ -352,6 +352,7 @@ console.log(30 <= 30 );
    
 //  || -or - yoki
 
+Uyni eshigini ochish kerak
 
 console.log();
 
