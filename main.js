@@ -353,8 +353,8 @@ console.log(30 <= 30 );
 //  || -or - yoki
 
 // Uyni eshigini ochish kerak:  Kalit : qizim va o'limda bor
-
-console.log( true || );
+            //  qizim    o'g'lim
+console.log( true || false);
 
 
 // ! not emas
