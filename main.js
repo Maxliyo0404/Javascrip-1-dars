@@ -364,8 +364,8 @@ console.log(30 <= 30 );
 
 
 // !- not - emas;
-console.log(!true);
-console.log(!false);
+// console.log(!true);
+// console.log(!false);
 
  
 
