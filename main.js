@@ -369,8 +369,8 @@ console.log(!false);
 
  
 
-uniary operators: 1 ta qiymat saqlaydi
-binary operators:
+// uniary operators: 1 ta qiymat saqlaydi
+// binary operators:
 
 
 // 1. Solishtirish operatorlari: =>     >, <, >=,  <=, ==, !=, ===, !==  ________________ Boolean qiymat ega ya'ni true va false bo'ladi
