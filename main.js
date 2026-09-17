@@ -358,7 +358,7 @@ console.log( true || false);
             //  qizim    o'g'lim
 console.log( false || true);
             //  qizim    o'g'lim
-console.log( false || true);
+console.log( false || false);
 
 
 // ! not emas
