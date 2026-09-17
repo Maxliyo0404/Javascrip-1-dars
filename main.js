@@ -363,8 +363,8 @@ console.log(30 <= 30 );
 // console.log( true || true);
 
 
-// ! not emas
-// a > b , c < d
+// !- not - emas
+ 
 
 uniary operators: 1 ta qiymat saqlaydi
 binary operators:
