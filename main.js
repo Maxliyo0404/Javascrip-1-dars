@@ -354,7 +354,7 @@ console.log(30 <= 30 );
 
 // Uyni eshigini ochish kerak:  Kalit : qizim va o'limda bor
 
-console.log();
+console.log( true || );
 
 
 // ! not emas
