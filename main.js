@@ -343,7 +343,7 @@ console.log(30 <= 30 );
 // &&- and - va
 
 
-
+Chetelga borish uchun:
    
 //  || -or - yoki
 
