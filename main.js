@@ -344,7 +344,7 @@ console.log(30 <= 30 );
 
 
 // Chetelga borish uchun: 1 Passport va  2. Viza 
-console.log(true && );
+console.log(true &&  false);
 
    
 //  || -or - yoki
