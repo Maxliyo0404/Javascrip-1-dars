@@ -447,7 +447,7 @@
 // console.log(10 = 8);
 
 
-3. Ternary : 3ta qiymat qabul qiladigan qiymat
+// 3. Ternary : 3ta qiymat qabul qiladigan qiymat
 
 
 
