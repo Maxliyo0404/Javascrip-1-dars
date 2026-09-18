@@ -409,7 +409,7 @@
 
 
 
-//  || or  yoki bitta tarafi tue bo'lsa ham ishlaydi
+//  || or - yoki - bitta tarafi tue bo'lsa ham ishlaydi
 //  || -or - yoki
 
 // Uyni eshigini ochish kerak:  Kalit : qizim va o'limda bor
