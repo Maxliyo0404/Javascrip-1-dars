@@ -449,7 +449,7 @@
 
 // 3. Ternary : 3ta qiymat qabul qiladigan qiymat
 
-console.log(true ? 5 :);
+console.log(false ? 5 : 10);
 
 
 
