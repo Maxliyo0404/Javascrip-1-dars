@@ -451,7 +451,7 @@
 
 // console.log(false ? 5 : 10);
 
-// special numbers : Infinitiy
+// special numbers : Infinitiy -Infinity
 
 
 
