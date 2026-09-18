@@ -264,8 +264,8 @@
 // Operatorlar 2 turga bo'linadfi 
 //1. Arithmetic operators : + qo'shish, - ayirish, * ko'paytirish, bo'lish /, daraja **,  qoldiqli bo'lish %
  
-let a = 100;
-let b = 3;
+// let a = 100;
+// let b = 3;
 // console.log(a + b);
 // console.log(a - b);
 // console.log(a * b); 
@@ -321,20 +321,20 @@ let b = 3;
 // console.log(10 > 9);
 // console.log(10 < 9);
 
-console.log( 20 > 20);
-console.log( 20 >= 20);
-console.log( 20 <= 20);
+// console.log( 20 > 20);
+// console.log( 20 >= 20);
+// console.log( 20 <= 20);
+// con
+// console.log(14 == 14);
+// console.log("14" == 14);
+// console.log("14" === 14);
+// console.log(10 !== 1);
 
-console.log(14 == 14);
-console.log("14" == 14);
-console.log("14" === 14);
-console.log(10 !== 1);
 
 
-
-console.log(30 > 30);
-console.log(30 <= 30 );
-console.log(30 <= 30 );
+// console.log(30 > 30);
+// console.log(30 <= 30 );
+// console.log(30 <= 30 );
 
 
 // logical operatorlar  (Mantiqiy operatorlar)
@@ -370,16 +370,17 @@ console.log(30 <= 30 );
  
 
 // uniary operators: 1 ta qiymat saqlaydi
-console.log(!true);
-console.log(-5);
+// console.log(!true);
+// console.log(-5);
 
-// binary operators:
+// binary operators: 2
 
 
 // 1. Solishtirish operatorlari: =>     >, <, >=,  <=, ==, !=, ===, !==  ________________ Boolean qiymat ega ya'ni true va false bo'ladi
 
 
 // console.log(10 > 5);
+
 // console.log(10 < 5);
 
 // console.log(20 > 20);
@@ -400,17 +401,6 @@ console.log(-5);
   // && and  va ikkala tarafi  true bo'lsagina ishlaydi
 //  || or  yoki bitta tarafi tue bo'lsa ham ishlaydi
 // ! not emas  trueni teskari yani  false qiladi
-
-
-
-
-
-
-
-
-
-
-
 
 
 
