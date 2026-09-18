@@ -400,7 +400,7 @@
 // logical operatorlar  (Mantiqiy operatorlar)
   // && and  va ikkala tarafi  true bo'lsagina ishlaydi
 
-console.log();
+
 // Chetelga borish uchun: 1 Passport va  2. Viza 
 // console.log(true &&  true);
 // console.log(true &&  false);
