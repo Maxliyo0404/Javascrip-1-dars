@@ -399,6 +399,16 @@
 
 // logical operatorlar  (Mantiqiy operatorlar)
   // && and  va ikkala tarafi  true bo'lsagina ishlaydi
+
+console.log();
+// Chetelga borish uchun: 1 Passport va  2. Viza 
+// console.log(true &&  true);
+// console.log(true &&  false);
+// console.log(false &&  true);
+// console.log(false &&  false);
+
+
+
 //  || or  yoki bitta tarafi tue bo'lsa ham ishlaydi
 // ! not emas  trueni teskari yani  false qiladi
 
