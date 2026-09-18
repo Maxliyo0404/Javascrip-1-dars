@@ -424,7 +424,7 @@
 
 // ! not emas  trueni teskari yani  false qiladi
 
-/ !- not - emas;
+// / !- not - emas;
 // console.log(!true);
 // console.log(!false);
 
