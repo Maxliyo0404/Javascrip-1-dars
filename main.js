@@ -433,7 +433,7 @@
 
 
 
-// uniary operators: 1 ta qiymat saqlaydi
+1 // uniary operators: 1 ta qiymat saqlaydi
 // console.log(!true);
 // console.log(-5 );
 
