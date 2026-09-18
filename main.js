@@ -398,7 +398,7 @@
 
 
 // logical operatorlar  (Mantiqiy operatorlar)
-  // && and  va ikkala tarafi  true bo'lsagina ishlaydi
+  // && and - va ;ikkala tarafi  true bo'lsagina ishlaydi
 
 
 // Chetelga borish uchun: 1 Passport va  2. Viza 
