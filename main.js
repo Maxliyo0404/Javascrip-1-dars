@@ -410,7 +410,17 @@
 
 
 //  || or  yoki bitta tarafi tue bo'lsa ham ishlaydi
+//  || -or - yoki
 
+// Uyni eshigini ochish kerak:  Kalit : qizim va o'limda bor
+            //  qizim    o'g'lim
+// console.log( true || false);
+            //  qizim    o'g'lim
+// console.log( false || true);
+            //  qizim    o'g'lim
+// console.log( false || false);
+            //  qizim    o'g'lim
+// console.log( true || true);
 
 // ! not emas  trueni teskari yani  false qiladi
 
