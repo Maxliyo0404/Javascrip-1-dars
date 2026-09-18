@@ -453,7 +453,7 @@
 
 // special numbers : Infinitiy -Infinity NaN
 1. // console.log(5 / 0); 
-// console.log(-5 / 0);
+ 2. // console.log(-5 / 0);
 // console.log("Hello" - 5);
 
 
