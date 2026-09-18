@@ -454,6 +454,7 @@
 // special numbers : Infinitiy -Infinity NaN
 console.log(5 / 0); 
 console.log(-5 / 0);
+console.log("Hello");
 
 
 
