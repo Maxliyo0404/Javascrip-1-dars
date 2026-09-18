@@ -422,7 +422,7 @@
             //  qizim    o'g'lim
 // console.log( true || true);
 
-// !- not emas  trueni teskari yani  false qiladi
+// !- not - emas  trueni teskari yani  false qiladi
 
 // / !- not - emas;
 // console.log(!true);
