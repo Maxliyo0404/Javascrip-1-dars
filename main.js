@@ -410,6 +410,8 @@
 
 
 //  || or  yoki bitta tarafi tue bo'lsa ham ishlaydi
+
+
 // ! not emas  trueni teskari yani  false qiladi
 
 
