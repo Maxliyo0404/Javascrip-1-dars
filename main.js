@@ -434,7 +434,7 @@
 
 
 // uniary operators: 1 ta qiymat saqlaydi
-console.log(!);
+console.log(!true);
 
 // console.log(!true);
 // console.log(-5);
