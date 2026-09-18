@@ -439,7 +439,7 @@
 
 
 
-// binary operators: 2 ta qiymat saqlaydi
+// binary operators: 2 ta qiymat saqlaydi:
 
 
 
