@@ -437,8 +437,7 @@
 // console.log(!true);
 // console.log(-5 );
 
-// console.log(!true);
-// console.log(-5);
+
 
 // binary operators: 2
 
