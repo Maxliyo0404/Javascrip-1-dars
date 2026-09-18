@@ -441,6 +441,10 @@
 
 // binary operators: 2 ta qiymat saqlaydi:
 console.log(10 - 8);
+console.log(10  8);
+console.log(10  8);
+console.log(10  8);
+console.log(10  8);
 
 
 
